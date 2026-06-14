@@ -1,0 +1,199 @@
+- id: R01
+  description: The source folder is named arcadenest_online_gaming_website.
+  score: 5
+  note: Check the root delivery folder name.
+
+- id: R02
+  description: The delivery excludes node_modules.
+  score: 5
+  note: Check the submitted package cleanup.
+
+- id: R03
+  description: README.md is present inside the source folder.
+  score: 5
+  note: Check the root source folder contents.
+
+- id: R04
+  description: README.md includes setup steps.
+  score: 3
+  note: Read the README setup section.
+
+- id: R05
+  description: README.md includes local run steps.
+  score: 3
+  note: Read the README local run section.
+
+- id: R06
+  description: README.md names Chrome or Chromium as the tested browser.
+  score: 3
+  note: Read the README tested browser section.
+
+- id: R07
+  description: The screenshots folder contains homepage_screenshot.png.
+  score: 3
+  note: Check the screenshots folder.
+
+- id: R08
+  description: The screenshots folder contains game_library_screenshot.png.
+  score: 3
+  note: Check the screenshots folder.
+
+- id: R09
+  description: The screenshots folder contains support_screenshot.png.
+  score: 3
+  note: Check the screenshots folder.
+
+- id: R10
+  description: The homepage hero title is Discover Browser Games in One Place.
+  score: 5
+  note: Check the rendered homepage hero heading.
+
+- id: R11
+  description: The Game Library heading is Game Library.
+  score: 5
+  note: Check the Game Library page heading.
+
+- id: R12
+  description: The Game Library includes at least eight game cards.
+  score: 5
+  note: Count the Game Library cards.
+
+- id: R13
+  description: The Game Library includes a Neon Runner card.
+  score: 5
+  note: Search or inspect the Game Library card list.
+
+- id: R14
+  description: Pixel Quest is categorized as Puzzle.
+  score: 5
+  note: Check the Pixel Quest card category.
+
+- id: R15
+  description: The Game Library includes an Arcade filter button.
+  score: 3
+  note: Check the Game Library filter controls.
+
+- id: R16
+  description: The Game Library includes a Puzzle filter button.
+  score: 3
+  note: Check the Game Library filter controls.
+
+- id: R17
+  description: The Game Library includes a Racing filter button.
+  score: 3
+  note: Check the Game Library filter controls.
+
+- id: R18
+  description: The Game Library includes a Strategy filter button.
+  score: 3
+  note: Check the Game Library filter controls.
+
+- id: R19
+  description: The Game Library includes an Action filter button.
+  score: 3
+  note: Check the Game Library filter controls.
+
+- id: R20
+  description: The Game Library shows empty state text for no-match search.
+  score: 5
+  note: Search for a title that does not exist.
+
+- id: R21
+  description: Runtime content data is stored inside JavaScript or JSON files.
+  score: 5
+  note: Check game, leaderboard, community, FAQ, and related-game data storage.
+
+- id: R22
+  description: The Game Detail page includes a large preview panel.
+  score: 3
+  note: Check the Game Detail layout.
+
+- id: R23
+  description: The Game Detail play button shows a placeholder state.
+  score: 5
+  note: Click the play button and confirm no real game launches.
+
+- id: R24
+  description: The Daily leaderboard tab updates visible rows.
+  score: 3
+  note: Click the Daily tab and observe the visible rows.
+
+- id: R25
+  description: The Weekly leaderboard tab updates visible rows.
+  score: 3
+  note: Click the Weekly tab and observe the visible rows.
+
+- id: R26
+  description: The Monthly leaderboard tab updates visible rows.
+  score: 3
+  note: Click the Monthly tab and observe the visible rows.
+
+- id: R27
+  description: The Leaderboard page includes at least ten rows.
+  score: 5
+  note: Count the visible leaderboard rows.
+
+- id: R28
+  description: The Community Updates page includes at least six update cards.
+  score: 5
+  note: Count the Community Updates cards.
+
+- id: R29
+  description: The newsletter form validates an email without an at sign.
+  score: 5
+  note: Submit the newsletter form with an invalid email value.
+
+- id: R30
+  description: The Support form validates an empty name field.
+  score: 5
+  note: Submit the Support form with the name field empty.
+
+- id: R31
+  description: The Support form validates an empty email field.
+  score: 5
+  note: Submit the Support form with the email field empty.
+
+- id: R32
+  description: The Support form validates an empty message field.
+  score: 5
+  note: Submit the Support form with the message field empty.
+
+- id: R33
+  description: The website has no horizontal scrolling at 360 px width.
+  score: 5
+  note: Inspect the site at 360 px width.
+
+- id: R34
+  description: All images include alt text.
+  score: 5
+  note: Inspect image elements in the source code.
+
+- id: R35
+  description: All form inputs have labels.
+  score: 5
+  note: Inspect the Support and newsletter form inputs.
+
+- id: R36
+  description: The browser console shows no runtime errors on initial load.
+  score: 5
+  note: Open the site in Chrome or Chromium and inspect the console.
+
+- id: R37
+  description: The project runs without external API keys.
+  score: 5
+  note: Check setup, source code, and README for API key requirements.
+
+- id: R38
+  description: The website contains no restricted content.
+  score: 5
+  note: Check for gambling, betting, casino, prize money, adult, hate, or violent graphic content.
+
+- id: R39
+  description: The mobile menu exposes the Home navigation link.
+  score: 3
+  note: Inspect the mobile menu at mobile width.
+
+- id: R40
+  description: The mobile menu exposes the Support navigation link.
+  score: 3
+  note: Inspect the mobile menu at mobile width.

@@ -1,0 +1,46 @@
+ArcadeNest Play Online Gaming Website - Overview
+
+Project Name: ArcadeNest Play Online Gaming Website
+Canonical Task ID: arcadenest_online_gaming_website
+Category: Web Development
+Budget Tier: 100 to 150 USD
+Client/Brand: ArcadeNest Play
+
+Project Summary:
+ArcadeNest Play needs a responsive multi-page front-end website for casual browser game discovery. The website should let visitors browse exact sample game cards, view a game detail preview, review leaderboard rows, read community update cards, and submit support or newsletter forms. This is a website-building task with a gaming theme, not a playable game-development task.
+
+Core Website Goal:
+Create a polished front-end experience that presents ArcadeNest Play as a casual browser game discovery brand. The site must run locally in Chrome or Chromium and must include clear navigation, responsive layouts, safe sample content, required screenshots, and a README with setup and run steps.
+
+Required Pages or Sections:
+1. Homepage
+2. Game Library
+3. Game Detail
+4. Leaderboard
+5. Community Updates
+6. Support
+
+Required Title Rules:
+Browser title: ArcadeNest Play
+Homepage hero title: Discover Browser Games in One Place
+Game Library heading: Game Library
+Leaderboard heading: Leaderboard
+Community heading: Community Updates
+Support heading: Support ArcadeNest Play
+README title: ArcadeNest Play Online Gaming Website
+
+Required Sample Games:
+Neon Runner - Arcade
+Pixel Quest - Puzzle
+Orbit Clash - Action
+Puzzle Forge - Puzzle
+Drift Circuit - Racing
+Shadow Tiles - Puzzle
+Astro Blocks - Strategy
+Turbo Tactics - Strategy
+
+Required Delivery:
+The final delivery must include the source folder named arcadenest_online_gaming_website, README.md, source files, and three screenshots named homepage_screenshot.png, game_library_screenshot.png, and support_screenshot.png.
+
+Out of Scope:
+The task does not include playable game development, account systems, payment systems, real-time multiplayer, backend database setup, live chat, gambling, betting, casino content, prize-money mechanics, adult content, or esports tournament management.

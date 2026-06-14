@@ -1,0 +1,69 @@
+ArcadeNest Play Online Gaming Website - Scope of Work
+
+In Scope:
+- Build a responsive front-end website for ArcadeNest Play.
+- Use HTML, CSS, and JavaScript, or a front-end framework with documented setup and run commands.
+- Create six required pages or sections: Homepage, Game Library, Game Detail, Leaderboard, Community Updates, and Support.
+- Apply the required dark gaming visual style using the specified colours: #111322, #1C2040, #222642, #7C3AED, #22C55E, #06B6D4, #F97316, #FFFFFF, and #D8DCF7.
+- Include the exact homepage hero title: Discover Browser Games in One Place.
+- Add header navigation for Home, Games, Leaderboard, Community, and Support.
+- Add footer navigation for Home, Games, Leaderboard, Community, Support, Terms, and Privacy.
+- Include at least four featured game cards on the homepage.
+- Include at least four category tiles on the homepage.
+- Include at least three leaderboard preview rows on the homepage.
+- Include at least three community preview cards on the homepage.
+- Include at least eight exact sample games in the Game Library.
+- Include Game Library search by game title.
+- Include category filters for Arcade, Puzzle, Racing, Strategy, and Action.
+- Include an empty state when no game matches the search.
+- Include a Game Detail view with preview panel, description, controls or rules, difficulty, rating, placeholder play button, and at least three related game cards.
+- Ensure the play button only shows a placeholder state and does not launch a real game.
+- Include a Leaderboard page with Daily, Weekly, and Monthly tabs.
+- Include at least ten leaderboard rows with rank, player name, game name, score, and time period.
+- Style the top three leaderboard ranks distinctly.
+- Include at least six Community Updates cards with title, date, category tag, and one paragraph summary.
+- Include a newsletter signup layout with email field and submit button.
+- Validate newsletter email entries missing an at sign.
+- Include a Support page with intro text, name field, email placeholder, message field, submit button, at least five FAQ items, support response time text, and repeated footer.
+- Validate empty name, email, and message fields in the Support form.
+- Store game data, leaderboard data, community update data, FAQ data, and related game data inside JavaScript or JSON files.
+- Ensure body text is at least 16 px.
+- Ensure primary buttons are at least 44 px tall.
+- Ensure body text contrast is at least 4.5 to 1 against its background.
+- Ensure all images have alt text.
+- Ensure all form inputs have labels.
+- Ensure icons do not replace text labels for navigation, forms, buttons, or filters.
+- Ensure buttons and interactive cards have visible hover or focus states.
+- Ensure no horizontal scrolling appears at 360 px width.
+- Ensure the mobile menu exposes all required navigation links.
+- Test locally in Chrome or Chromium.
+- Ensure the browser console shows no runtime errors on initial load.
+- Include README.md with project title, setup steps, local run steps, page list, feature list, tested browser, and out-of-scope notes.
+- Include three PNG screenshots with exact names: homepage_screenshot.png, game_library_screenshot.png, and support_screenshot.png.
+- Clean the final delivery by removing node_modules, cache folders, system folders, duplicate exports, and unrelated screenshots.
+- If compressed, zip only the arcadenest_online_gaming_website folder after cleanup.
+
+Out of Scope:
+- Playable game development.
+- Game engine work.
+- User authentication.
+- Account systems.
+- Payment processing.
+- Database setup.
+- Admin dashboard development.
+- Real-time multiplayer infrastructure.
+- Live chat systems.
+- Mobile app development.
+- External paid services or private account requirements.
+- External API key requirements.
+- Gambling mechanics.
+- Betting flows.
+- Casino games.
+- Prize-money mechanics.
+- Adult content mechanics.
+- Hate content.
+- Violent graphic content.
+- Esports tournament management.
+
+Final Acceptance:
+The project is acceptable only when it runs locally, matches the required page content, uses the exact required filenames and folder name, follows the responsive rules, keeps the play action as a placeholder, stores runtime content data in JavaScript or JSON, and includes no restricted or out-of-scope functionality.
